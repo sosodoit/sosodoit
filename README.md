@@ -8,6 +8,7 @@ sosodoit/sosodoit is a ✨ special ✨ repository because its `README.md` (this 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=36&pause=1000&color=F1C40F&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Data+Analysis;AI+Engineer;AI+Project+Consulting)](https://git.io/typing-svg)
 </div>
 
+<!---
 <div align="left">
   <ul>
   <li>
@@ -27,6 +28,7 @@ sosodoit/sosodoit is a ✨ special ✨ repository because its `README.md` (this 
   </li>
   </ul>
 </div>
+--->
 
 <div align="left">
   <br>
